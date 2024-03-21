@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir İş Yerinin Gider Hesabı\Bir İş Yerinin Gider Hesabı\bin\Debug\Bir İş Yerinin Gider Hesabı.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir İş Yerinin Gider Hesabı\Bir İş Yerinin Gider Hesabı\bin\Debug\Bir İş Yerinin Gider Hesabı.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir İş Yerinin Gider Hesabı\Bir İş Yerinin Gider Hesabı\bin\Debug\Bir İş Yerinin Gider Hesabı.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir İş Yerinin Gider Hesabı\Bir İş Yerinin Gider Hesabı\obj\Debug\Bir İş Yerinin Gider Hesabı.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir İş Yerinin Gider Hesabı\Bir İş Yerinin Gider Hesabı\obj\Debug\Bir İş Yerinin Gider Hesabı.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir İş Yerinin Gider Hesabı\Bir İş Yerinin Gider Hesabı\obj\Debug\Bir İş Yerinin Gider Hesabı.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir İş Yerinin Gider Hesabı\Bir İş Yerinin Gider Hesabı\obj\Debug\Bir İş Yerinin Gider Hesabı.pdb

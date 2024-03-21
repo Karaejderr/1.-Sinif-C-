@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük - Küçük Ünlü Uyumu\Büyük - Küçük Ünlü Uyumu\bin\Debug\Büyük - Küçük Ünlü Uyumu.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük - Küçük Ünlü Uyumu\Büyük - Küçük Ünlü Uyumu\bin\Debug\Büyük - Küçük Ünlü Uyumu.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük - Küçük Ünlü Uyumu\Büyük - Küçük Ünlü Uyumu\bin\Debug\Büyük - Küçük Ünlü Uyumu.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük - Küçük Ünlü Uyumu\Büyük - Küçük Ünlü Uyumu\obj\Debug\Büyük - Küçük Ünlü Uyumu.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük - Küçük Ünlü Uyumu\Büyük - Küçük Ünlü Uyumu\obj\Debug\Büyük - Küçük Ünlü Uyumu.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük - Küçük Ünlü Uyumu\Büyük - Küçük Ünlü Uyumu\obj\Debug\Büyük - Küçük Ünlü Uyumu.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük - Küçük Ünlü Uyumu\Büyük - Küçük Ünlü Uyumu\obj\Debug\Büyük - Küçük Ünlü Uyumu.pdb

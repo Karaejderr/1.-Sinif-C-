@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük Ünlü Uyumu Gelişmiş\Büyük Ünlü Uyumu Gelişmiş\bin\Debug\Büyük Ünlü Uyumu Gelişmiş.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük Ünlü Uyumu Gelişmiş\Büyük Ünlü Uyumu Gelişmiş\bin\Debug\Büyük Ünlü Uyumu Gelişmiş.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük Ünlü Uyumu Gelişmiş\Büyük Ünlü Uyumu Gelişmiş\bin\Debug\Büyük Ünlü Uyumu Gelişmiş.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük Ünlü Uyumu Gelişmiş\Büyük Ünlü Uyumu Gelişmiş\obj\Debug\Büyük Ünlü Uyumu Gelişmiş.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük Ünlü Uyumu Gelişmiş\Büyük Ünlü Uyumu Gelişmiş\obj\Debug\Büyük Ünlü Uyumu Gelişmiş.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük Ünlü Uyumu Gelişmiş\Büyük Ünlü Uyumu Gelişmiş\obj\Debug\Büyük Ünlü Uyumu Gelişmiş.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Büyük Ünlü Uyumu Gelişmiş\Büyük Ünlü Uyumu Gelişmiş\obj\Debug\Büyük Ünlü Uyumu Gelişmiş.pdb

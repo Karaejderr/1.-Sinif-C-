@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\obj\Debug\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali).csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\obj\Debug\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali).csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\bin\Debug\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali).exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\bin\Debug\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali).exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\bin\Debug\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali).pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\obj\Debug\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali).exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali)\obj\Debug\Bir Aracın Yakıt Masrafı (Düzenlenmiş Hali).pdb

@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Geometrik Denklemleri Hesaplama Formülü\Geometrik Denklemleri Hesaplama Formülü\bin\Debug\Geometrik Denklemleri Hesaplama Formülü.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Geometrik Denklemleri Hesaplama Formülü\Geometrik Denklemleri Hesaplama Formülü\bin\Debug\Geometrik Denklemleri Hesaplama Formülü.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Geometrik Denklemleri Hesaplama Formülü\Geometrik Denklemleri Hesaplama Formülü\bin\Debug\Geometrik Denklemleri Hesaplama Formülü.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Geometrik Denklemleri Hesaplama Formülü\Geometrik Denklemleri Hesaplama Formülü\obj\Debug\Geometrik Denklemleri Hesaplama Formülü.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Geometrik Denklemleri Hesaplama Formülü\Geometrik Denklemleri Hesaplama Formülü\obj\Debug\Geometrik Denklemleri Hesaplama Formülü.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Geometrik Denklemleri Hesaplama Formülü\Geometrik Denklemleri Hesaplama Formülü\obj\Debug\Geometrik Denklemleri Hesaplama Formülü.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Geometrik Denklemleri Hesaplama Formülü\Geometrik Denklemleri Hesaplama Formülü\obj\Debug\Geometrik Denklemleri Hesaplama Formülü.pdb

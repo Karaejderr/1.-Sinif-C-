@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir Tır Şöfürünün Aldığı Ücret\Bir Tır Şöfürünün Aldığı Ücret\bin\Debug\Bir Tır Şöfürünün Aldığı Ücret.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir Tır Şöfürünün Aldığı Ücret\Bir Tır Şöfürünün Aldığı Ücret\bin\Debug\Bir Tır Şöfürünün Aldığı Ücret.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir Tır Şöfürünün Aldığı Ücret\Bir Tır Şöfürünün Aldığı Ücret\bin\Debug\Bir Tır Şöfürünün Aldığı Ücret.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir Tır Şöfürünün Aldığı Ücret\Bir Tır Şöfürünün Aldığı Ücret\obj\Debug\Bir Tır Şöfürünün Aldığı Ücret.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir Tır Şöfürünün Aldığı Ücret\Bir Tır Şöfürünün Aldığı Ücret\obj\Debug\Bir Tır Şöfürünün Aldığı Ücret.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir Tır Şöfürünün Aldığı Ücret\Bir Tır Şöfürünün Aldığı Ücret\obj\Debug\Bir Tır Şöfürünün Aldığı Ücret.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Bir Tır Şöfürünün Aldığı Ücret\Bir Tır Şöfürünün Aldığı Ücret\obj\Debug\Bir Tır Şöfürünün Aldığı Ücret.pdb

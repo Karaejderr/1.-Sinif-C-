@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Fibonacci Sayı Dizisi\Fibonacci Sayı Dizisi\bin\Debug\Fibonacci Sayı Dizisi.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Fibonacci Sayı Dizisi\Fibonacci Sayı Dizisi\bin\Debug\Fibonacci Sayı Dizisi.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Fibonacci Sayı Dizisi\Fibonacci Sayı Dizisi\bin\Debug\Fibonacci Sayı Dizisi.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Fibonacci Sayı Dizisi\Fibonacci Sayı Dizisi\obj\Debug\Fibonacci Sayı Dizisi.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Fibonacci Sayı Dizisi\Fibonacci Sayı Dizisi\obj\Debug\Fibonacci Sayı Dizisi.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Fibonacci Sayı Dizisi\Fibonacci Sayı Dizisi\obj\Debug\Fibonacci Sayı Dizisi.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Fibonacci Sayı Dizisi\Fibonacci Sayı Dizisi\obj\Debug\Fibonacci Sayı Dizisi.pdb
