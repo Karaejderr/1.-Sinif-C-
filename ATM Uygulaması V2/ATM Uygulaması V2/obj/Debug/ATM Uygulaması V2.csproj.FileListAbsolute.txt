@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Uygulaması V2\ATM Uygulaması V2\bin\Debug\ATM Uygulaması V2.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Uygulaması V2\ATM Uygulaması V2\bin\Debug\ATM Uygulaması V2.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Uygulaması V2\ATM Uygulaması V2\bin\Debug\ATM Uygulaması V2.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Uygulaması V2\ATM Uygulaması V2\obj\Debug\ATM Uygulaması V2.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Uygulaması V2\ATM Uygulaması V2\obj\Debug\ATM Uygulaması V2.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Uygulaması V2\ATM Uygulaması V2\obj\Debug\ATM Uygulaması V2.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Uygulaması V2\ATM Uygulaması V2\obj\Debug\ATM Uygulaması V2.pdb
