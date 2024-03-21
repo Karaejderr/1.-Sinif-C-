@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\e Ticaret İndirim Kampanyası\e Ticaret İndirim Kampanyası\bin\Debug\e Ticaret İndirim Kampanyası.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\e Ticaret İndirim Kampanyası\e Ticaret İndirim Kampanyası\bin\Debug\e Ticaret İndirim Kampanyası.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\e Ticaret İndirim Kampanyası\e Ticaret İndirim Kampanyası\bin\Debug\e Ticaret İndirim Kampanyası.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\e Ticaret İndirim Kampanyası\e Ticaret İndirim Kampanyası\obj\Debug\e Ticaret İndirim Kampanyası.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\e Ticaret İndirim Kampanyası\e Ticaret İndirim Kampanyası\obj\Debug\e Ticaret İndirim Kampanyası.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\e Ticaret İndirim Kampanyası\e Ticaret İndirim Kampanyası\obj\Debug\e Ticaret İndirim Kampanyası.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\e Ticaret İndirim Kampanyası\e Ticaret İndirim Kampanyası\obj\Debug\e Ticaret İndirim Kampanyası.pdb

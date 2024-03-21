@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Depo Doldurma Progblemi\Depo Doldurma Progblemi\bin\Debug\Depo Doldurma Progblemi.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Depo Doldurma Progblemi\Depo Doldurma Progblemi\bin\Debug\Depo Doldurma Progblemi.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Depo Doldurma Progblemi\Depo Doldurma Progblemi\bin\Debug\Depo Doldurma Progblemi.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Depo Doldurma Progblemi\Depo Doldurma Progblemi\obj\Debug\Depo Doldurma Progblemi.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Depo Doldurma Progblemi\Depo Doldurma Progblemi\obj\Debug\Depo Doldurma Progblemi.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Depo Doldurma Progblemi\Depo Doldurma Progblemi\obj\Debug\Depo Doldurma Progblemi.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Depo Doldurma Progblemi\Depo Doldurma Progblemi\obj\Debug\Depo Doldurma Progblemi.pdb

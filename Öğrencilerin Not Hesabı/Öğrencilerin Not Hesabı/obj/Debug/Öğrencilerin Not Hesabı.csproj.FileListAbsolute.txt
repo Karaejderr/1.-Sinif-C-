@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Öğrencilerin Not Hesabı\Öğrencilerin Not Hesabı\bin\Debug\Öğrencilerin Not Hesabı.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Öğrencilerin Not Hesabı\Öğrencilerin Not Hesabı\bin\Debug\Öğrencilerin Not Hesabı.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Öğrencilerin Not Hesabı\Öğrencilerin Not Hesabı\bin\Debug\Öğrencilerin Not Hesabı.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Öğrencilerin Not Hesabı\Öğrencilerin Not Hesabı\obj\Debug\Öğrencilerin Not Hesabı.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Öğrencilerin Not Hesabı\Öğrencilerin Not Hesabı\obj\Debug\Öğrencilerin Not Hesabı.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Öğrencilerin Not Hesabı\Öğrencilerin Not Hesabı\obj\Debug\Öğrencilerin Not Hesabı.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Öğrencilerin Not Hesabı\Öğrencilerin Not Hesabı\obj\Debug\Öğrencilerin Not Hesabı.pdb

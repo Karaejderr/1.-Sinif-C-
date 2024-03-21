@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Kitabı Bitirme Süres\Kitabı Bitirme Süres\bin\Debug\Kitabı Bitirme Süres.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Kitabı Bitirme Süres\Kitabı Bitirme Süres\bin\Debug\Kitabı Bitirme Süres.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Kitabı Bitirme Süres\Kitabı Bitirme Süres\bin\Debug\Kitabı Bitirme Süres.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Kitabı Bitirme Süres\Kitabı Bitirme Süres\obj\Debug\Kitabı Bitirme Süres.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Kitabı Bitirme Süres\Kitabı Bitirme Süres\obj\Debug\Kitabı Bitirme Süres.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Kitabı Bitirme Süres\Kitabı Bitirme Süres\obj\Debug\Kitabı Bitirme Süres.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Kitabı Bitirme Süres\Kitabı Bitirme Süres\obj\Debug\Kitabı Bitirme Süres.pdb

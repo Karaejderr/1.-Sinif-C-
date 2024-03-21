@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Takım Anketi\Takım Anketi\bin\Debug\Takım Anketi.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Takım Anketi\Takım Anketi\bin\Debug\Takım Anketi.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Takım Anketi\Takım Anketi\bin\Debug\Takım Anketi.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Takım Anketi\Takım Anketi\obj\Debug\Takım Anketi.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Takım Anketi\Takım Anketi\obj\Debug\Takım Anketi.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Takım Anketi\Takım Anketi\obj\Debug\Takım Anketi.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Takım Anketi\Takım Anketi\obj\Debug\Takım Anketi.pdb
