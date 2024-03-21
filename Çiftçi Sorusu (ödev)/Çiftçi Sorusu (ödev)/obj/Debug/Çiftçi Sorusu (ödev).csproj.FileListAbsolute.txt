@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Çiftçi Sorusu (ödev)\Çiftçi Sorusu (ödev)\bin\Debug\Çiftçi Sorusu (ödev).exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Çiftçi Sorusu (ödev)\Çiftçi Sorusu (ödev)\bin\Debug\Çiftçi Sorusu (ödev).exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Çiftçi Sorusu (ödev)\Çiftçi Sorusu (ödev)\bin\Debug\Çiftçi Sorusu (ödev).pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Çiftçi Sorusu (ödev)\Çiftçi Sorusu (ödev)\obj\Debug\Çiftçi Sorusu (ödev).csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Çiftçi Sorusu (ödev)\Çiftçi Sorusu (ödev)\obj\Debug\Çiftçi Sorusu (ödev).csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Çiftçi Sorusu (ödev)\Çiftçi Sorusu (ödev)\obj\Debug\Çiftçi Sorusu (ödev).exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Çiftçi Sorusu (ödev)\Çiftçi Sorusu (ödev)\obj\Debug\Çiftçi Sorusu (ödev).pdb

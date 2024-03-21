@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindomik Kelimeler", "Palindomik Kelimeler\Palindomik Kelimeler.csproj", "{8235FDA2-0BFF-4DAC-8CE3-0F7EDDCA8E1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8235FDA2-0BFF-4DAC-8CE3-0F7EDDCA8E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8235FDA2-0BFF-4DAC-8CE3-0F7EDDCA8E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8235FDA2-0BFF-4DAC-8CE3-0F7EDDCA8E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8235FDA2-0BFF-4DAC-8CE3-0F7EDDCA8E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B8E6D87-3098-45A0-9867-C7BC1C7EBA73}
+	EndGlobalSection
+EndGlobal

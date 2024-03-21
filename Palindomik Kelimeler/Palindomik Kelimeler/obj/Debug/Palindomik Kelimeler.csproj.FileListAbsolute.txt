@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Kelimeler\Palindomik Kelimeler\bin\Debug\Palindomik Kelimeler.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Kelimeler\Palindomik Kelimeler\bin\Debug\Palindomik Kelimeler.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Kelimeler\Palindomik Kelimeler\bin\Debug\Palindomik Kelimeler.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Kelimeler\Palindomik Kelimeler\obj\Debug\Palindomik Kelimeler.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Kelimeler\Palindomik Kelimeler\obj\Debug\Palindomik Kelimeler.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Kelimeler\Palindomik Kelimeler\obj\Debug\Palindomik Kelimeler.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Kelimeler\Palindomik Kelimeler\obj\Debug\Palindomik Kelimeler.pdb

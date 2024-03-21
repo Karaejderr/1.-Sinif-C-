@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Sayılar 2\Palindomik Sayılar 2\bin\Debug\Palindomik Sayılar 2.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Sayılar 2\Palindomik Sayılar 2\bin\Debug\Palindomik Sayılar 2.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Sayılar 2\Palindomik Sayılar 2\bin\Debug\Palindomik Sayılar 2.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Sayılar 2\Palindomik Sayılar 2\obj\Debug\Palindomik Sayılar 2.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Sayılar 2\Palindomik Sayılar 2\obj\Debug\Palindomik Sayılar 2.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Sayılar 2\Palindomik Sayılar 2\obj\Debug\Palindomik Sayılar 2.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Palindomik Sayılar 2\Palindomik Sayılar 2\obj\Debug\Palindomik Sayılar 2.pdb

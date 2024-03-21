@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Eğimli Virajı Dönerken maxHız\Eğimli Virajı Dönerken maxHız\bin\Debug\Eğimli Virajı Dönerken maxHız.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Eğimli Virajı Dönerken maxHız\Eğimli Virajı Dönerken maxHız\bin\Debug\Eğimli Virajı Dönerken maxHız.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Eğimli Virajı Dönerken maxHız\Eğimli Virajı Dönerken maxHız\bin\Debug\Eğimli Virajı Dönerken maxHız.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Eğimli Virajı Dönerken maxHız\Eğimli Virajı Dönerken maxHız\obj\Debug\Eğimli Virajı Dönerken maxHız.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Eğimli Virajı Dönerken maxHız\Eğimli Virajı Dönerken maxHız\obj\Debug\Eğimli Virajı Dönerken maxHız.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Eğimli Virajı Dönerken maxHız\Eğimli Virajı Dönerken maxHız\obj\Debug\Eğimli Virajı Dönerken maxHız.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Eğimli Virajı Dönerken maxHız\Eğimli Virajı Dönerken maxHız\obj\Debug\Eğimli Virajı Dönerken maxHız.pdb

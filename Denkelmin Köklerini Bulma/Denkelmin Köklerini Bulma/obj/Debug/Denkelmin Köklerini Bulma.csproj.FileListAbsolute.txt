@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Denkelmin Köklerini Bulma\Denkelmin Köklerini Bulma\bin\Debug\Denkelmin Köklerini Bulma.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Denkelmin Köklerini Bulma\Denkelmin Köklerini Bulma\bin\Debug\Denkelmin Köklerini Bulma.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Denkelmin Köklerini Bulma\Denkelmin Köklerini Bulma\bin\Debug\Denkelmin Köklerini Bulma.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Denkelmin Köklerini Bulma\Denkelmin Köklerini Bulma\obj\Debug\Denkelmin Köklerini Bulma.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Denkelmin Köklerini Bulma\Denkelmin Köklerini Bulma\obj\Debug\Denkelmin Köklerini Bulma.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Denkelmin Köklerini Bulma\Denkelmin Köklerini Bulma\obj\Debug\Denkelmin Köklerini Bulma.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\Denkelmin Köklerini Bulma\Denkelmin Köklerini Bulma\obj\Debug\Denkelmin Köklerini Bulma.pdb

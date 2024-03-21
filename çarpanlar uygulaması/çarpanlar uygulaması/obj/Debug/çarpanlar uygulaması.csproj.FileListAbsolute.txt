@@ -1,0 +1,7 @@
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\çarpanlar uygulaması\çarpanlar uygulaması\bin\Debug\çarpanlar uygulaması.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\çarpanlar uygulaması\çarpanlar uygulaması\bin\Debug\çarpanlar uygulaması.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\çarpanlar uygulaması\çarpanlar uygulaması\bin\Debug\çarpanlar uygulaması.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\çarpanlar uygulaması\çarpanlar uygulaması\obj\Debug\çarpanlar uygulaması.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\çarpanlar uygulaması\çarpanlar uygulaması\obj\Debug\çarpanlar uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\çarpanlar uygulaması\çarpanlar uygulaması\obj\Debug\çarpanlar uygulaması.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\çarpanlar uygulaması\çarpanlar uygulaması\obj\Debug\çarpanlar uygulaması.pdb
