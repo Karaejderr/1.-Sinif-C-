@@ -1,0 +1,14 @@
+C:\Users\Taha\Desktop\Ders Klasörlerim\Programlama\Ödev Dosyaları\Diziler\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\bin\Debug\ATM Sorusu gelişmiş.exe.config
+C:\Users\Taha\Desktop\Ders Klasörlerim\Programlama\Ödev Dosyaları\Diziler\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\bin\Debug\ATM Sorusu gelişmiş.exe
+C:\Users\Taha\Desktop\Ders Klasörlerim\Programlama\Ödev Dosyaları\Diziler\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\bin\Debug\ATM Sorusu gelişmiş.pdb
+C:\Users\Taha\Desktop\Ders Klasörlerim\Programlama\Ödev Dosyaları\Diziler\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\obj\Debug\ATM Sorusu gelişmiş.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\Ders Klasörlerim\Programlama\Ödev Dosyaları\Diziler\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\obj\Debug\ATM Sorusu gelişmiş.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Ders Klasörlerim\Programlama\Ödev Dosyaları\Diziler\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\obj\Debug\ATM Sorusu gelişmiş.exe
+C:\Users\Taha\Desktop\Ders Klasörlerim\Programlama\Ödev Dosyaları\Diziler\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\obj\Debug\ATM Sorusu gelişmiş.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\bin\Debug\ATM Sorusu gelişmiş.exe.config
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\bin\Debug\ATM Sorusu gelişmiş.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\bin\Debug\ATM Sorusu gelişmiş.pdb
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\obj\Debug\ATM Sorusu gelişmiş.csproj.AssemblyReference.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\obj\Debug\ATM Sorusu gelişmiş.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\obj\Debug\ATM Sorusu gelişmiş.exe
+C:\Users\Taha\Desktop\c dersleri\Visual Studio c#\Algoritma Çalışmalarım\ATM Sorusu gelişmiş\ATM Sorusu gelişmiş\obj\Debug\ATM Sorusu gelişmiş.pdb
